@@ -8,6 +8,8 @@
   * [HTTP](network/http.md)
 * [Javascript](javascript/README.md)
   * [ES6/7/8](javascript/es6-7-8.md)
+  * [类型](javascript/types/README.md)
+    * [Array](javascript/types/array.md)
 * [CSS](css.md)
 * [HTML](html.md)
 
