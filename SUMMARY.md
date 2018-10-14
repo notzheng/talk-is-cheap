@@ -11,7 +11,7 @@
   * [Promise](javascript/async/promise.md)
   * [Async/Await](javascript/async/async-await.md)
   * [宏任务与微任务](javascript/async/marc-micro-tasks/README.md)
-    * [【译】tasks-microtasks-queues-and-schedules](javascript/async/marc-micro-tasks/tasks-microtasks-queues-and-schedules.md)
+    * [【译】Tasks, microtasks, queues and schedules](javascript/async/marc-micro-tasks/tasks-microtasks-queues-and-schedules.md)
 
 ## HTML
 
