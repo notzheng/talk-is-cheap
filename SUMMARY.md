@@ -7,6 +7,11 @@
 * [类型](javascript/types/README.md)
   * [Array](javascript/types/array.md)
 * [ES6/7/8](javascript/es6-7-8.md)
+* [异步](javascript/async/README.md)
+  * [Promise](javascript/async/promise.md)
+  * [Async/Await](javascript/async/async-await.md)
+  * [宏任务与微任务](javascript/async/marc-micro-tasks/README.md)
+    * [【译】tasks-microtasks-queues-and-schedules](javascript/async/marc-micro-tasks/tasks-microtasks-queues-and-schedules.md)
 
 ## HTML
 
