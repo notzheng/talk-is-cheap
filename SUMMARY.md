@@ -8,6 +8,7 @@
   * [Array](javascript/types/array.md)
 * [ES6/7/8](javascript/es6-7-8.md)
 * [异步](javascript/async/README.md)
+  * [Generator生成器](javascript/async/generator.md)
   * [Promise](javascript/async/promise.md)
   * [Async/Await](javascript/async/async-await.md)
   * [宏任务与微任务](javascript/async/marc-micro-tasks/README.md)
