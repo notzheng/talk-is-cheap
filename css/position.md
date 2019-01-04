@@ -12,7 +12,7 @@
 {% endtab %}
 
 {% tab title="Relative" %}
-### Relative 定位（相对定位） {#position-relative}
+### Relative 定位（相对定位） <a id="position-relative"></a>
 {% endtab %}
 
 {% tab title="Absolute" %}
